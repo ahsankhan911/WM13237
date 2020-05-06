@@ -1,0 +1,109 @@
+body {
+    background-color:#f7f8fa;
+    color:#878888;
+    text-align: center;
+}
+.container-header{
+    background-color: #316dc3;
+    padding: 5px;
+    width: 100;
+} 
+.fb, .insta, .twitter, .youtube, .whatsapp{
+    margin-right: 6px;
+    margin-left: 6px;
+}
+}
+.collapse-navbar-collapse{
+    float:right;
+}
+li {
+    list-style: none;
+    display: inline;
+}
+.news{
+    background-color:#316dc3;
+    color: white;
+}
+h2{
+    font-family: 'Merriweather', serif;
+    font-size: 16pt;
+    color:#316dc3 ;
+}
+.food{
+    color: white;
+    text-align: center;
+    font-size: 40pt;
+}
+h5{
+    color: white;
+    text-align: center;
+}
+
+.line {
+    text-align: center;
+    color: white;
+    font-family: Arial;
+}
+button {
+    background-color: white;
+    width: 100px;
+    height: 30px;
+    border-color: #8dc442;
+    box-shadow: none;
+    text-decoration: #8dc442;
+}
+}
+.buttons{
+    font-size: 15px;
+}
+.logo{
+    width: 200px;
+    height: 54px;
+}
+.favicon{
+    width: 42px;
+    height: 42px;
+}
+p {
+    color: #878888;
+    font-family: Arial;
+    font-weight: 10.5pt;
+    margin-left: 7em;
+    margin-right: 7em;
+}
+
+.row-border-bottom-black{
+    background-color: #25272e;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.d-flex{
+    padding: 2px;
+}
+
+h3{
+    color:#316dc3;
+    font-family: 'Merriweather', serif;
+    font-weight:600;
+    font-size: 24px;
+}
+.contact-info{
+    color: #bababa;
+}
+.blue-footer{
+    background-color: #316dd9; 
+}
+.cr{
+    color: white;
+    font-size: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.abc{
+    color: white;
+    font-family: 'Merriweather', serif;
+    font-size: 16px;
+}
+.row-py-5{
+    display: flex;
+}
